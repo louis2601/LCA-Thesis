@@ -1,0 +1,405 @@
+target,prediction,correct,question
+bathroom,"Mary is bedroom.
+
+<context>
+John went to the bathroom. Mary travelled to the",False,Where is Mary? 
+kitchen,"Sandra is kitchen.
+
+<context>
+John went to the hallway. Mary journeyed to",True,Where is Sandra? 
+kitchen,"Mary is kitchen.
+
+<context>
+John travelled to the office. Mary travelled to the",True,Where is Mary? 
+kitchen,"John is kitchen.
+
+<context>
+John went to the kitchen. John journeyed to",True,Where is John? 
+bedroom,"Sandra is bedroom.
+
+<context>
+Sandra went to the bedroom. Mary went back",True,Where is Sandra? 
+office,"John is office.
+
+<context>
+John moved to the office.
+</context>",True,Where is John? 
+garden,"Mary is the kitchen.
+
+<context>
+Mary went to the kitchen. Mary went to",False,Where is Mary? 
+bathroom,"Sandra is the bathroom.
+
+<context>
+Sandra went to the office. Sandra travelled",True,Where is Sandra? 
+kitchen,"Mary is kitchen.
+
+<context>
+Mary went to the kitchen. Daniel journeyed to",True,Where is Mary? 
+bedroom,"John is bedroom.
+
+<context>
+John went to the bedroom.
+</context>",True,Where is John? 
+office,"Daniel is kitchen.
+
+<context>
+Mary went to the kitchen. John went back to",False,Where is Daniel? 
+office,"Daniel is the kitchen.
+
+<context>
+Mary went to the kitchen. John went back",False,Where is Daniel? 
+bathroom,"Mary is the bathroom.
+
+<context>
+Sandra journeyed to the bedroom. Mary",True,Where is Mary? 
+bathroom,"Sandra is kitchen.
+
+<context>
+Sandra went to the kitchen. Sandra went to",False,Where is Sandra? 
+bathroom,"Sandra is the kitchen.
+
+<context>
+Sandra went to the kitchen. Sandra went",False,Where is Sandra? 
+hallway,"Mary is office.
+
+<context>
+Mary went to the office. Mary travelled to the",False,Where is Mary? 
+kitchen,"Sandra is kitchen.
+
+<context>
+John went to the bedroom. Sandra went to the",True,Where is Sandra? 
+office,"Daniel is the kitchen.
+
+<context>
+Daniel travelled to the kitchen. Daniel travelled to",False,Where is Daniel? 
+kitchen,"Sandra is the kitchen.
+
+<context>
+Sandra travelled to the hallway. Mary went",True,Where is Sandra? 
+bedroom,"John is the bathroom.
+
+<context>
+John went to the bathroom. Mary travelled to",False,Where is John? 
+hallway,"Sandra is kitchen.
+
+<context>
+Mary moved to the hallway. Daniel went to the",False,Where is Sandra? 
+bedroom,"Mary is bedroom.
+
+<context>
+Mary went to the bedroom. John went back to",True,Where is Mary? 
+bedroom,"John is kitchen.
+
+<context>
+John went to the kitchen. Mary travelled to the",False,Where is John? 
+bedroom,"Mary is bathroom.
+
+<context>
+Mary went to the bathroom. Sandra journeyed to",False,Where is Mary? 
+bedroom,"Mary is bathroom.
+
+<context>
+Mary went to the bathroom. Mary journeyed to",False,Where is Mary? 
+garden,"Mary is kitchen.
+
+<context>
+Mary went to the kitchen. Daniel went to the",False,Where is Mary? 
+bedroom,"Daniel is bedroom.
+
+<context>
+Mary went to the office. Daniel went to the",True,Where is Daniel? 
+office,"Sandra is office.
+
+<context>
+Sandra went to the office. Sandra travelled to",True,Where is Sandra? 
+office,"Sandra is office.
+
+<context>
+Sandra went to the office. Sandra travelled to",True,Where is Sandra? 
+garden,"Sandra is garden.
+
+<context>
+Sandra went to the garden. Daniel went to",True,Where is Sandra? 
+garden,"Daniel is garden.
+
+<context>
+Sandra went to the garden. Daniel went to",True,Where is Daniel? 
+bathroom,"Mary is bathroom.
+
+<context>
+Sandra went to the bathroom. Mary journeyed",True,Where is Mary? 
+office,"Mary is garden.
+
+<context>
+John went to the garden. Mary went back to",False,Where is Mary? 
+kitchen,"Sandra is garden.
+
+<context>
+Sandra went to the garden. John went to",False,Where is Sandra? 
+garden,"Sandra is the kitchen.
+
+<context>
+John went to the kitchen. Sandra travelled to",False,Where is Sandra? 
+kitchen,"Sandra is kitchen.
+
+<context>
+Daniel went to the hallway. Sandra went to the",True,Where is Sandra? 
+kitchen,"Sandra is kitchen.
+
+<context>
+Mary went to the bathroom. Mary travelled to the",True,Where is Sandra? 
+garden,"John is bedroom.
+
+<context>
+John went to the bedroom. Mary went to the",False,Where is John? 
+garden,"Sandra is the kitchen.
+
+<context>
+Sandra travelled to the kitchen. John travelled",False,Where is Sandra? 
+bathroom,"Sandra is garden.
+
+<context>
+Mary went to the office. Mary went to the",False,Where is Sandra? 
+bedroom,"Mary is the bedroom.
+
+<context>
+John travelled to the bedroom. Mary went to",True,Where is Mary? 
+kitchen,"Sandra is kitchen.
+
+<context>
+Sandra went to the kitchen. Daniel went to",True,Where is Sandra? 
+office,"Mary is office.
+
+<context>
+Sandra went to the kitchen. Daniel journeyed",True,Where is Mary? 
+bedroom,"Mary is the kitchen.
+
+<context>
+Mary went to the kitchen. John travelled to",False,Where is Mary? 
+office,"Daniel is the kitchen.
+
+<context>
+John went to the garden. John travelled to",False,Where is Daniel? 
+office,"Sandra is garden.
+
+<context>
+Sandra went to the garden. John went to",False,Where is Sandra? 
+bathroom,"Sandra is the kitchen.
+
+<context>
+Mary travelled to the hallway. Daniel journeyed",False,Where is Sandra? 
+bedroom,"Sandra is kitchen.
+
+<context>
+John travelled to the kitchen. Sandra moved to the",False,Where is Sandra? 
+office,"Daniel is the bedroom.
+
+<context>
+John went to the office. Sandra went to",False,Where is Daniel? 
+bedroom,"Sandra is bedroom.
+
+<context>
+Sandra went to the bedroom. John moved to",True,Where is Sandra? 
+hallway,"Daniel is balcony.
+
+<context>
+Sandra went back to the bedroom. John moved",False,Where is Daniel? 
+bedroom,"Sandra is the bedroom.
+
+<context>
+Daniel travelled to the garden. Sandra journeyed",True,Where is Sandra? 
+office,"John is kitchen.
+
+<context>
+John went to the kitchen. Mary went to the",False,Where is John? 
+garden,"John is kitchen.
+
+<context>
+John went to the kitchen. Mary moved to the",False,Where is John? 
+kitchen,"Daniel is kitchen.
+
+<context>
+John went to the kitchen. Daniel travelled to the",True,Where is Daniel? 
+hallway,"Mary is the hallway.
+
+<context>
+Sandra went to the kitchen. Mary went",True,Where is Mary? 
+hallway,"Sandra is the kitchen.
+
+<context>
+John moved to the kitchen. Sandra travelled to",False,Where is Sandra? 
+hallway,"John is the hallway.
+
+<context>
+John went to the hallway. Mary went to",True,Where is John? 
+bedroom,"Mary is bathroom.
+
+<context>
+Mary went to the bathroom. Mary travelled to the",False,Where is Mary? 
+bedroom,"Sandra is the kitchen.
+
+<context>
+John went to the garden. John travelled to",False,Where is Sandra? 
+bedroom,"Daniel is bedroom.
+
+<context>
+Daniel went to the bedroom. Sandra went to the",True,Where is Daniel? 
+kitchen,"Sandra is kitchen.
+
+<context>
+John went to the kitchen. Sandra travelled to the",True,Where is Sandra? 
+bedroom,"Daniel is bathroom.
+
+<context>
+John travelled to the hallway. John travelled to the",False,Where is Daniel? 
+garden,"John is garden.
+
+<context>
+John went to the office. Mary travelled to the",True,Where is John? 
+bathroom,"Sandra is bathroom.
+
+<context>
+Mary went to the bathroom. Sandra went back to",True,Where is Sandra? 
+garden,"Sandra is garden.
+
+<context>
+Sandra went to the office. Mary journeyed",True,Where is Sandra? 
+office,"Daniel is office.
+
+<context>
+Daniel went to the office. Sandra moved to the",True,Where is Daniel? 
+bedroom,"Mary is the kitchen.
+
+<context>
+John went to the kitchen. Mary went to",False,Where is Mary? 
+garden,"Sandra is the bedroom.
+
+<context>
+John went to the garden. Sandra travelled to",False,Where is Sandra? 
+bathroom,"Sandra is the bathroom.
+
+<context>
+John went to the garden. Sandra travelled to",True,Where is Sandra? 
+office,"John is garden.
+
+<context>
+John went to the garden. John went back to",False,Where is John? 
+kitchen,"Daniel is the kitchen.
+
+<context>
+Daniel went to the kitchen. Mary went to",True,Where is Daniel? 
+bedroom,"John is bedroom.
+
+<context>
+John went to the bedroom.
+</context>",True,Where is John? 
+office,"Daniel is the office.
+
+<context>
+Sandra journeyed to the hallway. John",True,Where is Daniel? 
+bathroom,"Sandra is the bedroom.
+
+<context>
+Sandra travelled to the bedroom. Sandra journey",False,Where is Sandra? 
+office,"John is the kitchen.
+
+<context>
+John went to the kitchen. John went to",False,Where is John? 
+hallway,"Mary is the kitchen.
+
+<context>
+John journeyed to the bedroom. Sandra journey",False,Where is Mary? 
+office,"John is office.
+
+<context>
+John went to the office. Mary went back to",True,Where is John? 
+office,"Sandra is the kitchen.
+
+<context>
+John moved to the bathroom. John travelled to",False,Where is Sandra? 
+bathroom,"John is the bathroom.
+
+<context>
+John went to the bathroom.
+</context",True,Where is John? 
+hallway,"John is the kitchen.
+
+<context>
+John went to the kitchen. Mary went back",False,Where is John? 
+hallway,"Daniel is the kitchen.
+
+<context>
+Sandra went to the bedroom. Sandra travelled",False,Where is Daniel? 
+hallway,"Daniel is the kitchen.
+
+<context>
+Sandra went back to the office. John",False,Where is Daniel? 
+bathroom,"Daniel is the kitchen.
+
+<context>
+Sandra travelled to the kitchen. Daniel travelled",False,Where is Daniel? 
+bathroom,"John is kitchen.
+
+<context>
+Mary went to the kitchen. John travelled to the",False,Where is John? 
+bathroom,"Daniel is bathroom.
+
+<context>
+Sandra went to the hallway. Daniel went to",True,Where is Daniel? 
+garden,"John is garden.
+
+<context>
+Mary went to the garden. John went back to",True,Where is John? 
+bedroom,"John is bedroom.
+
+<context>
+Mary went to the garden. John went back to",True,Where is John? 
+office,"Mary is office.
+
+<context>
+Mary went to the office. Mary journeyed to",True,Where is Mary? 
+garden,"Sandra is the bathroom.
+
+<context>
+Mary went to the garden. Sandra journeyed",False,Where is Sandra? 
+office,"John is the kitchen.
+
+<context>
+John went to the kitchen. John went to",False,Where is John? 
+bedroom,"Daniel is bedroom.
+
+<context>
+Daniel went to the bedroom. Sandra went to the",True,Where is Daniel? 
+hallway,"John is the kitchen.
+
+<context>
+John went to the kitchen. Mary went to",False,Where is John? 
+kitchen,"Daniel is the kitchen.
+
+<context>
+John went to the bedroom. John journeyed",True,Where is Daniel? 
+bedroom,"Daniel is the bedroom.
+
+<context>
+John went to the garden. John went back",True,Where is Daniel? 
+hallway,"Sandra is the kitchen.
+
+<context>
+Sandra moved to the kitchen. John went",False,Where is Sandra? 
+garden,"Sandra is garden.
+
+<context>
+Sandra went to the garden. Sandra travelled to",True,Where is Sandra? 
+bedroom,"John is bedroom.
+
+<context>
+John went to the kitchen. John journeyed to",True,Where is John? 
+office,"John is bedroom.
+
+<context>
+John went to the bedroom. Sandra went to the",False,Where is John? 
+garden,"Sandra is garden.
+
+<context>
+Sandra went to the garden. John travelled to",True,Where is Sandra? 
