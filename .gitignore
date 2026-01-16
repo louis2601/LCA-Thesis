@@ -168,3 +168,5 @@ babilong_results*/
 .idea/
 Evaluation/triton_cache
 Evaluation/dummy_triton_cache
+Evaluation/babilong_eval_results
+local/
